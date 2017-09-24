@@ -1,6 +1,6 @@
 {
   "name": "@decktape/fonteditor-core",
-  "version": "0.0.37",
+  "version": "0.0.37-beta.1",
   "description": "fonts (ttf, woff, eot, svg, otf) parse, write, transform. glyph adjust.",
   "keywords": [
     "sfnt",
