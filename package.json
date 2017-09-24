@@ -33,7 +33,6 @@
     }
   ],
   "scripts": {
-    "publish": "sh tool/publish-node.sh",
     "test": "phantomjs test/run-jasmine.js test/SpecRunner.html",
     "test_node": "sh tool/test-node.sh",
     "lint": "fecs ./src --reporter=baidu --rule"
